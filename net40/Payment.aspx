@@ -11,7 +11,7 @@
 <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 <script>
     var options = {
-        "key": "rzp_test_2pjQoIV7c1RY6C",
+        "key": "rzp_test_*********",
         "amount": "100",
         "name": "Checkout Test",
         "description": "Any Description",
