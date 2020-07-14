@@ -16,8 +16,8 @@ namespace RazorpaySampleApp
             input.Add("payment_capture", 1);
 
 
-            string key = "rzp_test_2pjQoIV7c1RY6C";
-            string secret = "nWwe91xQO3NIDzJUp1mUmr9O";
+            string key = "rzp_test_*********";
+            string secret = "***************";
 
             RazorpayClient client = new RazorpayClient(key, secret);
 
